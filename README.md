@@ -5,12 +5,12 @@ Das Ziel diese Vorschlags ist es, Personen mit kleinem Risiko eines schweren Ver
 * Schulen und Sporthallen werden zu Immunisierungszentren umfunktioniert
 * Personen, die sich freiwillig infizieren lassen möchten, begeben sich zu einem Immunisierungszentrum
 * Es werden nur Personen aufgenommen, bei denen das Risiko eines tödlichen Verlaufs kleiner ist als x%. Dieser Schwellwert für das Risiko wird dynamisch angepasst. Wahrscheinlich sollte man mit 0.2% (alle unter 40 Jahren) starten.
-* Nachdem die betroffene Person wieder symptomfrei sind, werden sie entlassen
+* Nachdem die betroffenen Personen wieder symptomfrei sind, werden sie entlassen
 
 ## Bonusprogramm 
 
 * Teilnehmende Personen werden bei einem schweren Verlauf bevorzugt behandelt. Sie erhalten eine Garantie für ein Intensivbett.
-* Nach dem Verlassen des Infektionszentrums dürfen sich die Person **auch bei einer Ausgangssperre** frei bewegen.
+* Nach dem Verlassen des Infektionszentrums dürfen sich diese Personen **auch bei einer Ausgangssperre** frei bewegen.
 * Kostenlose Versorgung mit Lebensmitteln.
 * Betriebe wie Hotels, Gaststätten, Friseure usw. dürfen wieder öffnen, wenn sie
   * Ausschließlich immunisiertes Personal einsetzen
@@ -23,7 +23,7 @@ Beim Verlassen des Immunisierungszentren erhält die Person einen Button mit QR 
 ## Immunisierungszentren
 
 * Jeder bringt alles was er benötigt selber mit (Luftmatratze, Bettdecken,Fieberthermometer)
-* Sie werden kostenlos mit Lebensmitteln versorgt
+* Kostenlose Versorgung mit Lebensmitteln
 * Für die Zubereitung der Lebensmittel sind die Bewohner selbst verantwortlich. Normalerweise sind Hallen und Schulen mit großen Küchen ausgestattet.
 * Freies Internet
 * Möglichkeit für Home Office
