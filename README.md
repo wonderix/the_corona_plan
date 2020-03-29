@@ -30,6 +30,10 @@ Beim Verlassen des Immunisierungszentrums erhält die Person einen Button mit QR
 * Eventuell Ausstattung mit Feldbetten durch Bundeswehr oder Katastrophenschutz
 * Eventuell Ausstattung durch medizinisches Personal der Bundeswehr oder des Katastrophenschutzes
 
+## Einführung
+
+* Zunächst Pilotversuch in einer kleineren Gemeinde
+* Danach Ausweitung auf immer mehr Gemeinden und Städte
 
 ## Vorteile dieser Lösung
 
@@ -40,3 +44,4 @@ Beim Verlassen des Immunisierungszentrums erhält die Person einen Button mit QR
    ```
    0.9% / 0.2 % = 4.5
    ```
+
