@@ -1,4 +1,4 @@
-# Vorschlag zur Verkürzung der Corona Krise
+# Wie man die Corona Krise um den Faktor 4 verkürzen kann
 
 Das Ziel diese Vorschlags ist es, Personen mit kleinem Risiko eines schweren Verlaufes, möglichst schnell zu immunisieren.
 
@@ -35,5 +35,8 @@ Beim Verlassen des Immunisierungszentren erhält die Person einen Button mit QR 
 
 * Schnelle Immunisierung großer Bevölkerungsteile ohne das Risiko vieler schwerer Verläufe
 * Dadurch Schutzwirkung auf die besonders gefährdete Teile der Bevölkerung
-* Abmilderung der ökonomischen Folgen, da die Krise dadurch erheblich verkürzt wird.
 * Soziale Kontakte in Immunisierungszentren. Keine Isolation zu Hause
+* Abmilderung der ökonomischen Folgen, da die Krise dadurch um Faktoren verkürzt würde. Unter vereinfachten Annahmen kann man sicher davon ausgehen, dass sich dieser Faktor direkt aus dem Verhältnis der Sterblichkeitsrate der Gesamtbevölkerung und der der unter 40-Jährigen bestimmen ließe:
+   ```
+   0.9% / 0.2 % = 4.5
+   ```
