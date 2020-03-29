@@ -10,7 +10,7 @@ Das Ziel diese Vorschlags ist es, Personen mit kleinem Risiko eines schweren Ver
 ## Bonusprogramm 
 
 * Teilnehmende Personen werden bei einem schweren Verlauf bevorzugt behandelt. Sie erhalten eine Garantie für ein Intensivbett.
-* Nach dem Verlassen des Infektionszentrums dürfen sich diese Personen **auch bei einer Ausgangssperre** frei bewegen.
+* Nach dem Verlassen des Immunisierungszentrums dürfen sich diese Personen **auch bei einer Ausgangssperre** frei bewegen.
 * Kostenlose Versorgung mit Lebensmitteln.
 * Betriebe wie Hotels, Gaststätten, Friseure usw. dürfen wieder öffnen, wenn sie
   * Ausschließlich immunisiertes Personal einsetzen
