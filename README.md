@@ -40,6 +40,7 @@ Beim Verlassen des Immunisierungszentrums erhält die Person einen Button mit QR
 * Schnelle Immunisierung großer Bevölkerungsteile ohne das Risiko vieler schwerer Verläufe
 * Dadurch Schutzwirkung auf die besonders gefährdete Teile der Bevölkerung
 * Soziale Kontakte in Immunisierungszentren. Keine Isolation zu Hause
+* Auch wenn die unter 40-Jährigen einen geringen Bevölkerunganteil ausmachen (43%), so machen sie doch einen erheblich Teil an der [arbeitenden Bevölkerung aus](https://www.destatis.de/DE/Themen/Arbeit/Arbeitsmarkt/Erwerbstaetigkeit/Tabellen/altersgruppen.html) (44%). Wenn man die 50-Jährigen noch dazunimmt, ist man schon bei 65% der Arbeitnehmer.
 * Abmilderung der ökonomischen Folgen, da die Krise dadurch um Faktoren verkürzt würde. Unter vereinfachten Annahmen kann man sicher davon ausgehen, dass sich dieser Faktor direkt aus dem Verhältnis der Sterblichkeitsrate der Gesamtbevölkerung und der der unter 40-Jährigen bestimmen ließe:
    ```
    0.9% / 0.2 % = 4.5
