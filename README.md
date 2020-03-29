@@ -18,7 +18,7 @@ Das Ziel diese Vorschlags ist es, Personen mit kleinem Risiko eines schweren Ver
 
 ## Realisierung der freien Beweglichkeit
 
-Beim Verlassen des Immunisierungszentren erhält die Person einen Button mit QR Code und der Aufschrift "Ich bin immun", der immer getragen werden muss. Anhand des QR Codes kann jeder (insbesondere Polizisten) schnell prüfen, ob die betreffende Person wirklich immunisiert wurde. Bei Missbrauch drohen massive Strafen
+Beim Verlassen des Immunisierungszentrums erhält die Person einen Button mit QR Code und der Aufschrift "Ich bin immun", der immer getragen werden muss. Anhand des QR Codes kann jeder (insbesondere Polizisten) schnell prüfen, ob die betreffende Person wirklich immunisiert wurde. Bei Missbrauch drohen massive Strafen
 
 ## Immunisierungszentren
 
