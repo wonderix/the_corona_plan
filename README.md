@@ -10,7 +10,7 @@ Ziel dieses Vorschlags ist es, Personen mit kleinem Risiko eines schweren Verlau
 ## Bonusprogramm 
 
 * Teilnehmende Personen werden bei einem schweren Verlauf bevorzugt behandelt. Sie erhalten eine Garantie für ein Intensivbett sowie ein Beatmungsgerät.
-   * Testpersonen werden kostenlos mit Lebensmitteln versorgt.
+* Testpersonen werden kostenlos mit Lebensmitteln versorgt.
 * Nach dem Verlassen des Immunisierungszentrums dürfen sich diese Personen - auch bei einer Ausgangssperre - frei bewegen.
 * Betriebe wie Hotels, Gaststätten, Friseure usw. dürfen wieder öffnen, wenn
   * sie ausschließlich immunisiertes Personal einsetzen.
